@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jan 17 17:49:52 2022
+# Process ID: 16724
+# Current directory: I:/FPGA Sources/Karatsuba Project Source/kara_simpRAM_ver7.3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8316 I:\FPGA Sources\Karatsuba Project Source\kara_simpRAM_ver7.3\karatsuba_mult.xpr
+# Log file: I:/FPGA Sources/Karatsuba Project Source/kara_simpRAM_ver7.3/vivado.log
+# Journal file: I:/FPGA Sources/Karatsuba Project Source/kara_simpRAM_ver7.3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {I:/FPGA Sources/Karatsuba Project Source/kara_simpRAM_ver7.3/karatsuba_mult.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
