@@ -4,4 +4,4 @@ An modified version of [128 bit Pipelined Karatsuba Multiplier based on DSP48 IP
 
 Language: Verilog
 
-Platform: Xilinx Vivado 2018.3 + ModelSIM 10.6d
+Platform: Xilinx Vivado 2018.3 + ModelSim SE 10.6d
